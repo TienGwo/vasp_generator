@@ -1,1 +1,1 @@
-# vasp_generator: a scipt for generate vasp inputs 
+# vasp_generator: a program for generate vasp inputs 
